@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is where I put my personal projects, hackathon projects, and academic projects. I've coded in Python, Go, Java, JavaScript, C/C++, and Python. I'm interested in building effective and scalable software, and expanding my technical know-how. 
+
 <!--
 **rohan-av/rohan-av** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
