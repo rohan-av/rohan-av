@@ -2,9 +2,6 @@
 
 This is where I put my personal projects, hackathon projects, and academic projects. I've coded in Python, Go, Java, JavaScript/TypeScript, and C/C++. I'm interested in building effective and scalable software, and expanding my technical know-how one exciting step at a time. 
 
-[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-av&count_private=true&show_icons=true&theme=cobalt&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **rohan-av/rohan-av** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
